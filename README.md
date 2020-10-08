@@ -5,7 +5,7 @@
 Run Code from Inside Python Folder
 Instatiate puzzle inside input.txt file
 
-##Constraints
+## Constraints
 
 1. Terminal nodes must be exactly one color and are given in the problem instance
 2. Every node must have exactly one color
