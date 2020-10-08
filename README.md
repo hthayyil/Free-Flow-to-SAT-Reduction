@@ -1,6 +1,6 @@
 # Free-Flow-to-SAT-Reduction
 
-##Built using z3 solver in Python
+## Built using z3 solver in Python
 
 Run Code from Inside Python Folder
 Instatiate puzzle inside input.txt file
